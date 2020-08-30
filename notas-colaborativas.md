@@ -7,6 +7,8 @@ En este documento vamos a ver si nos salen unos apuntes colaborativos decentes
 -------------------------------------
 
 
+que quiero repetirlo
+
 ## Tema 1
 
 
