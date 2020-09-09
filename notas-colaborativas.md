@@ -3,11 +3,12 @@
 
 En este documento vamos a ver si nos salen unos apuntes colaborativos decentes
 
+Ajandro
+
+
 
 -------------------------------------
 
-
-que quiero repetirlo
 
 ## Tema 1
 
@@ -29,7 +30,7 @@ que quiero repetirlo
 
 
 
-> [name=pjperez] q a ver si esto se arreba
+> [name=pjperez] q a ver si esto se arregla
 > 
 
 ```{r}
